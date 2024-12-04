@@ -27,7 +27,7 @@ The server implements one tool:
 #### Claude Desktop
 
 On MacOS: `~/Library/Application\ Support/Claude/claude_desktop_config.json`
-On Windows: `%APPDATA%/Claude/claude_desktop_config.json`
+On Windows: `%APPDATA%/Roaming/Claude/config.json`
 
 <details>
   <summary>Development/Unpublished Servers Configuration</summary>
